@@ -1,0 +1,9 @@
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\bin\Debug\ONI Test Mod.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\bin\Debug\ONI Test Mod.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\bin\Debug\0Harmony.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\bin\Debug\Assembly-CSharp.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\bin\Debug\UnityEngine.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\obj\Debug\ONI Test Mod.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ONI_Mods\ONI Test Mod\ONI Test Mod\obj\Debug\ONI Test Mod.pdb
